@@ -11,7 +11,6 @@ I'm am an undergraduate student with a mix of interests in technology, finance, 
 - 📙 Last summer I interned with JP Morgan Chase & Co. in the Corporate and Investment Banking Line of Business.
 - 👀 I’m looking for entry-level SWE positions anywhere around the United States!
 - 💬 Take a look at my [personal website](https://neevasethi.github.io/)! 
-- 📫 Please feel free to reach out via [email](sethineeva@gmail.com)!
 - 😄 Pronouns: She/her/hers
 - ⚡ In my free time I love reading, swimming, and traveling!
 
