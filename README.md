@@ -13,7 +13,3 @@ I'm currently a software engineer on HPC at Microsoft with a mix of interests in
 - 😄 Pronouns: She/her/hers
 - ⚡ In my free time I love to read, travel, and swim!
 
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=neevasethi)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=neevasethi&theme=highcontrast&show_icons=true&count_private=true)
