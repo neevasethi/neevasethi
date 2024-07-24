@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-I'm am an undergraduate student with a mix of interests in technology, finance, and healthcare!
-- 📓 I'm currently studying Computer Science & Biology at the University of Florida.
-- 🎒 This summer I intered at Microsoft on the Azure Edge + Platforms Deployment Solutions team. I will be joining this team as a full-time Software Engieer after graduating this May!
-- 📙 I previously interned as a Software Engieering intern with JP Morgan Chase & Co. in the Corporate and Investment Banking Line of Business.
+I'm currently a software engineer on HPC at Microsoft with a mix of interests in technology, finance, and healthcare!
+- 📓 I'm studied Computer Science & Biology at the University of Florida.
+- 🎒 I graduated in May 2023 and started working as a software engineer in August 2023
+- 📙 I had previously interned at Microsoft (Azure) and JP Morgan Chase (Corporate & Investment Banking)
 - 💬 Take a look at my [personal website](https://neevasethi.github.io/)! 
 - 😄 Pronouns: She/her/hers
 - ⚡ In my free time I love reading, swimming, and traveling!
